@@ -1,0 +1,7 @@
+title: "Sample Blog"
+baseURL: "https://holygrolli.github.io/sampleblog-hugo/"
+languageCode: "de-de"
+theme: hugo_theme_pickles
+
+params:
+  paginate: 10
