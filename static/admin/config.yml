@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: holygrolli/sampleblog-hugo
   branch: main
 
 publish_mode: editorial_workflow
