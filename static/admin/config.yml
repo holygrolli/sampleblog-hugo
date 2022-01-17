@@ -2,6 +2,7 @@ backend:
   name: github
   repo: holygrolli/sampleblog-hugo
   branch: main
+  base_url: https://netlify-oauth-test1-ugsqpbg2ua-ew.a.run.app
 
 publish_mode: editorial_workflow
 
